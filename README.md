@@ -1,4 +1,4 @@
-# controllab2
+# Signal Flow Graph
 
 ## Project setup
 ```
