@@ -1,4 +1,5 @@
 # Signal Flow Graph
+Providing graphical interface, Drawing the signal flow graph showing nodes, branches, gains, … ,Listing all forward paths, individual loops, all combination of n non-touching loops and Overall system transfer function
 
 ## Project setup
 ```
